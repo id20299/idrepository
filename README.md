@@ -1,0 +1,2 @@
+# idrepository
+for Blazor Training
